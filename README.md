@@ -23,5 +23,3 @@ Backend-focused .NET Developer with 5+ years of experience building scalable API
 
 ---
 [![](https://visitcount.itsvg.in/api?id=todaysgaurav&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
